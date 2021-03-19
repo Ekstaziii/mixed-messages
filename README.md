@@ -28,3 +28,5 @@ The message consists of a form of greating, short description on someone's look 
 ## Feedback
 
 I would love to recieve your opinion on my project! Every critic, rating etc. will be looked carefully at.
+
+### Special thanks to Barduche.
